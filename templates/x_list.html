@@ -13,7 +13,7 @@
     {# --- x Post --- #}
     <div class="x-post">
         <div class="my-icon">
-            <img src="{{ STATIC_URL }}img/sample-icon.jpg" class="">
+            <img src="{{ STATIC_URL }}img/sample-woman.jpg" class="">
         </div>
         <div class="input-area">
             <form action="/xAdd/" method="POST" enctype="multipart/form-data">
@@ -41,17 +41,18 @@
             <div class="x">
                 <div class="user">
                     <a href="#">
-                        <img src="{{ STATIC_URL }}img/sample-icon.jpg" class="">
+                        <img src="{{ STATIC_URL }}img/sample-woman.jpg" class="">
                     </a>
                 </div>
                 <div class="content">
                     <div class="name">
                         <a href="#" class="">
                             <span class="nickname">
-                                {{ x.name }}
+                                {{ x.name }} 
+                                </span>
                              </span>
                             <span class="datetime">
-                                {% util_date x.created_at|date:"Y/m/d H:i:s" %}
+                               {% util_date x.created_at|date:"Y/m/d H:i:s" %}
                             </span>
                         </a>
                         {# --- Menu for respective xs --- #}
