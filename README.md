@@ -7,7 +7,7 @@ So there are not user accounts and follow function. You can challenge after you 
 
 Check out [LIVE DEMO](https://x-clone-65o2.onrender.com) here!!
 
-<img src="https://github.com/Karthi905968/X-Clone/assets/144101745/fc9dc56d-73e6-4a23-937f-f7004f2f72d3" alt="Screenshot" width="300"/>
+<img src="https://github.com/Karthi905968/X-Clone/assets/144101745/fc9dc56d-73e6-4a23-937f-f7004f2f72d3" alt="Screenshot" width="500"/>
 
 
 
